@@ -1,0 +1,130 @@
+ https://confluence.atlassian.com/servicedesk/glossary-660967498.html?_ga=2.92877533.1137484685.1537766707-964308410.1521548206
+Atlassian community -> all products seperately
+https://community.atlassian.com/t5/Jira-questions/how-do-you-assign-a-jira-software-user-to-assist-with-a-jira/qaq-p/385535
+https://confluence.atlassian.com/servicedeskcloud/setting-up-service-desk-users-732528877.html
+https://aug.atlassian.com/bangalore-india/?utm_source=community&utm_medium=community&_ga=2.93443037.1137484685.1537766707-964308410.1521548206 -> atlassian user group.
+Java -> building -> understand
+Docker installations -> work on this
+JRE,JDK -> etc-> learn -> every application.
+Atlassian community -> Ask questions.
+https://bitbucket.org/sandeshshettyss/experiment/src/default/
+https://confluence.atlassian.com/bitbucket/build-test-and-deploy-with-pipelines-792496469.html
+Docker cloud -> practice
+Two days -> bitbucket -> complete.
+AWS Certification
+https://confluence.atlassian.com/adminjiraserver071/configuring-workflow-triggers-802592811.html  -> Jira Configuring workflow triggers
+https://confluence.atlassian.com/adminjiraserver071/workflow-properties-802592825.html -> Jira Configuring workflow properties
+https://www.tecmint.com/12-practical-examples-of-linux-grep-command/ -> grep commands
+https://www.tecmint.com/dpkg-command-examples/ -> dpkg commands
+http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html -> Revert Commits in git
+
+Jira Software Pricing -> https://www.atlassian.com/software/jira/pricing?tab=self-hosted
+Confluence Pricing -> https://www.atlassian.com/software/confluence/pricing?tab=self-hosted
+Jira Service Desk Pricing -> https://www.atlassian.com/software/jira/service-desk/pricing?tab=self-hosted
+
+https://portal.azure.com/#blade/Microsoft_Azure_Marketplace/GalleryFeaturedMenuItemBlade/selectedMenuItemId/home/resetMenuId/ -> azure login 
+https://nvie.com/posts/a-successful-git-branching-model/
+https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2-> Git Branch Structure
+
+https://confluence.atlassian.com/adminjiracloud/advanced-workflow-configuration-776636620.html -> Jira Workflow 
+Configuration.
+
+GitHub.com Training -> https://services.github.com/
+GitHub with Jenkins -> https://jenkins.io/solutions/github/
+https://www.valuebound.com/resources/blog/continuous-integration-using-jenkins-and-github-to-automate-deployment
+
+https://confluence.atlassian.com/adminjiraserver/upgrading-jira-applications-using-the-installer-938846937.html
+-> Jira aplication upgrade
+
+https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-linux-938846841.html
+-> Jira installations on Linux
+
+https://help.github.com/articles/comparing-commits-across-time/ -> Comparing files.
+https://www.oreilly.com/library/view/practical-jira-administration/9781449309701/ch01.html ->Jira groups vs roles
+
+https://confluence.atlassian.com/adminjiraserver073/re-indexing-after-major-configuration-changes-861253858.html  -->why we should do reindexing in jira?
+
+https://confluence.atlassian.com/adminjiraserver071/using-dashboard-gadgets-802592293.html  --> Jira dashboard gadgets.
+
+https://stackoverflow.com/questions/4604663/download-single-files-from-github  --> save older versions of file from github.
+
+https://help.github.com/enterprise/2.15/admin/articles/updating-your-license/  --> updating license
+
+
+difference between merge/squash/rebase
+Comparing commits
+
+GitHub with Visual studio
+https://github.com/github/VisualStudio/tree/master/docs
+
+Jira Service Desk cloud URL
+https://jiraservicedesk2018.atlassian.net/
+
+Atlassian portal login
+https://www.webassessor.com/wa.do?id=19496645&page=transcriptDetails&returnURL=home.do%3Fpage%3DCANDIDATE
+
+docker cloud sign in
+https://cloud.docker.com/
+
+Atlassian portal
+shettysandesh.ss1996@gmail.com
+Atlassian Testing ID: AT00138219
+Password: Dt_San2018@1234
+https://www.certmetrics.com/atlassian/login.aspx?ReturnUrl=%2fatlassian%2f
+
+https://innovalog.atlassian.net/wiki/spaces/JMWE/pages/104464390/Linked+Issues+Status+Condition
+
+https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories -> merging two git repositories.
+
+https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.egit.doc%2Fhelp%2FEGit%2FUser_Guide%2FReference.html -> Git eclipse tuterial
+
+https://github.community/t5/Support-Protips/Best-practices-for-protected-branches/ba-p/10224 -> Github best practices
+
+https://www.johbo.com/2016/how-to-revert-a-merge-commit-in-git.html -> git revert commits
+
+http://localhost:8080/buildStatus/icon?job=fee_report 
+
+https://stackoverflow.com/questions/14274293/show-current-state-of-jenkins-build-on-github-repo -> Bidirectional linking between jenkins and GHE
+
+https://aws.amazon.com/vpc/ --> AWS all services links
+
+https://www.atlassian.com/git/tutorials/   -> git tuteriols
+https://wiki.eclipse.org/EGit/User_Guide#Resolving_a_merge_conflict   -> resolving merge conflicts in egit
+
+https://431508442254.signin.aws.amazon.com/console  -> AWS log in
+
+https://xebialabs.com/devops-diagram-generator/   -> DevOps diagram generator
+
+http://support.enjayworld.com/support/solutions/articles/4000044746-installing-tally-on-enjay-tiguin-linux-    -> Tally on linux
+
+https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Red+Hat+distributions   -> Installing Jenkins in linux
+
+https://docs.docker.com/install/linux/docker-ce/centos/#install-docker-ce-1     -> docker installation on linux
+
+https://github.com/docker/labs/    -> docker labs
+
+https://www.atlassian.com/devops/start-your-journey   -> Atlassian DevOps
+https://www.atlassian.com/agile/articles              -> Atlassian agile
+
+openssl x509 -noout -modulus -in server.crt| openssl md5
+openssl rsa -noout -modulus -in server.key| openssl md5
+
+Atlassian Training -> https://training.atlassian.com/user/
+https://www.youtube.com/watch?v=DmnD2Ofb9es    -> cloud native
+https://community.atlassian.com/t5/Jira-questions/re-order-Issue-workflow-buttons/qaq-p/383261  -> workflow issues
+
+https://help.github.com/enterprise/2.14/admin/guides/installation/migrating-elasticsearch-indices-to-github-enterprise-server-2-14-or-later/    -> GHE elastic search -> upgradation
+
+Microfocus products -> https://home.software.microfocus.com/myaccount/#/myProducts
+
+Jenkins pipeline -> https://jenkins.io/doc/book/pipeline/
+
+DevOps projectss video link - https://www.youtube.com/watch?v=8D46Pgbz0gg&list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
+facebook group
+
+https://drive.google.com/drive/folders/17_943Xww6k6LeNgM6s87p6mbbfwTFBLF  -> DevOps Drive link DevTools
+
+
+
+
+
